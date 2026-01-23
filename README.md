@@ -56,9 +56,3 @@
 | **💰 CoinMate** | 1인 개발 | React, FastAPI, AWS | **AI 기반 가상화폐 자동매매 서비스**<br>- 복잡한 매매 데이터를 차트(Chart)로 시각화하여 정보 전달<br>- FastAPI 백엔드와 연동하여 실시간 시세 데이터 처리<br>- AWS 환경 배포를 통한 서비스 운영 경험 |
 | **📅 MoToDo** | Team Member | React, Swagger | **동아리 일정 공유 서비스 (팀 프로젝트)**<br>- 캘린더 뷰(Calendar View) UI 컴포넌트 구현<br>- Swagger API 명세를 기반으로 백엔드와의 데이터 연동<br>- Git Flow 협업 방식을 통한 팀 개발 경험 축적 |
 
----
-
-## 📈 GitHub Stats
-
-![Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DONRAJI&show_icons=true&theme=gotham)
-![Junseo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DONRAJI&layout=compact&theme=gotham)
