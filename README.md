@@ -69,4 +69,4 @@
 | **👋 [SignBridge (손짓)](https://github.com/DONRAJI/sign-language-translator)**<br>`2025.07 ~ 08` | 팀 프로젝트 | React, MediaPipe,<br>ONNX Runtime Web | **수어-문자 번역 웹서비스 · 제2회 강남대학교 교내 해커톤 강냉톤 우수상**<br>- 모델 담당 2명이 만든 인식 모델을 웹 서비스로 연결 (개발 1 · 모델 2 · 디자인 1)<br>- 브라우저에서 키포인트 추출 → 수어 단어를 바로 추론하는 학습 화면 구현<br>- 해커톤 이후 브랜치 10개 통합, 입력 프레임을 학습 조건과 맞춰 인식 불일치 수정 |
 | **✈️ AirMate**<br>`2026.01 ~ 09` | 1인 개발 | React Native,<br>TypeScript, Firebase | **인천공항 올인원 가이드 앱** *(출시 준비 중)*<br>- 공공데이터 API 원본 응답과 명세를 대조해 혼잡도 표시 오류 3건 수정<br>- 실시간 혼잡도를 반영한 '공항 도착 권장 시간' 계산<br>- 터미널 평면도 마커 좌표를 이미지 분석으로 자동 추출, 한/영 다국어 |
 
-**그 외** · StepIn — 취업 준비 과정을 공유하는 플랫폼 (GDGOC ONE WAVE 해커톤, 프론트엔드) · [VibeLink](https://github.com/DONRAJI/VibeLink) — 여럿이 함께 듣는 실시간 공유 플레이리스트 (Socket.IO) · [TodoMate](https://github.com/DONRAJI/TodoMate) — 오프라인에서도 쓰는 할 일 관리 PWA
+**그 외** · StepIn — 취업 준비 과정을 공유하는 플랫폼 (GDGOC ONE WAVE 해커톤, 프론트엔드) · [VibeLink](https://github.com/DONRAJI/VibeLink) — 여럿이 함께 듣는 실시간 공유 플레이리스트 (Socket.IO) 
